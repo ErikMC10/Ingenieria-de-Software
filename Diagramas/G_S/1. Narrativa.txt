@@ -1,0 +1,12 @@
+Narrativa:
+Se desarrollarán dos aplicaciones móviles, la primera estará dirigida a usuarios. 
+
+El usuario podrá obtener la ubicación, hora de llegada de la próxima unidad,  enviar  alerta, queja o sugerencias.
+
+
+Para la parte de la administración; el administrador podrá generar horarios para cada unidad y tendrá un control de hora de llegada y salida de cada unidad,
+así como también tendrá registro de los boletos de todos los trayectos.
+
+
+Para el conductor, el sistema le permitirá enviar una alerta en caso de emergencia, le permitirá registrar su hora de llegada y salida 
+y registrar el boletaje final después de cada trayecto
